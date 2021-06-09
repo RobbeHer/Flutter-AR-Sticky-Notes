@@ -1,0 +1,28 @@
+{
+  "name": "stickynotes",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "localtunnel": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itfactory-tm/2020-2021-3APP-MobDev-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itfactory-tm/2020-2021-3APP-MobDev-11/issues"
+  },
+  "homepage": "https://github.com/itfactory-tm/2020-2021-3APP-MobDev-11#readme"
+}

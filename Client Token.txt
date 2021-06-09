@@ -1,0 +1,5 @@
+Client token:               f25c7edb7907b29897897ff3e95b09b1
+Group ID:                   BJb46yb6D
+Target Collection ID:       5fefa2afc48140645bbb3a0f
+Amazon url of the project:  https://s3-eu-west-1.amazonaws.com/target-manager-live/b6f110e82185e3b6917e420f9ff5ba28/5fefa2afc48140645bbb3a0f/
+Cloud Archive Version:      2.0

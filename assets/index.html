@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <!-- disables pinch-scaling of the webview, so that gestures only do what they're supposed to -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"/>
+
+    <title></title>
+
+    <script src="https://www.wikitude.com/libs/architect.js"></script>
+    <script type="text/javascript" src="../ade.js"></script>
+
+    <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body>
+<div id="infoBox" class="info">
+    <div class="text">Scan the room to find AR sticky notes</div>
+</div>
+
+<div id="errorMessage"></div>
+
+<div id="loadingMessage" class="info">Loading ...</div>
+
+<!-- Comment following block out for continuous image recognition sinds it's not required anymore -->
+<div id="scanButtonWrapper">
+    <a id="scanButton" href="javascript: World.scan();" data-role="button" data-inline="true">Scan</a>
+</div>
+
+<script src="js/world.js"></script>
+</body>
+</html>
